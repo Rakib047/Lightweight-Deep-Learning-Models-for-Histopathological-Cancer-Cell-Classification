@@ -40,4 +40,6 @@ This repository explores lightweight deep learning architectures for the classif
   - **0.97 Macro F1-Score** (highlighting balanced performance across all classes).
 
 ## Pretrained Models and Base Repository
-Our work builds upon the **DeepCMorph** architecture, focusing on improving the classification
+Our work builds upon the **DeepCMorph** architecture, focusing on improving the classification module.  
+For pretrained models and the original implementation, visit:  
+[DeepCMorph Repository](https://github.com/aiff22/DeepCMorph)
